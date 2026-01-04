@@ -1,7 +1,5 @@
 .vscode/*.json
 *.exe
-*.txt
-*.cpp
 test
 TEMP
 GEOMETRY
